@@ -1,5 +1,5 @@
 HW1 SUBMITTED
-[link]https://github.com/BU-IE-360/spring22-halittasdemir/blob/gh-pages/360HW1-.html
+[link](https://github.com/BU-IE-360/spring22-halittasdemir/blob/gh-pages/360HW1-.html)
 
 DEĞİŞİKLİK DENEMESİ
 [link](https://moodle.boun.edu.tr/login/)
