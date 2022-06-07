@@ -1,5 +1,5 @@
 Project Submitted
-[link](https://bu-ie-360.github.io/spring22-halittasdemir/360 project- halit taşdemir, bora yıldırım.html)
+[link]([https://bu-ie-360.github.io/spring22-halittasdemir/project-360-halit-bora.html)
 HW2 SUBMITTED
 [link](https://bu-ie-360.github.io/spring22-halittasdemir/360-hw-2.html)
 HW1 SUBMITTED
